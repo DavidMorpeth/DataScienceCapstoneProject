@@ -13,14 +13,7 @@ The goal of this project is develop a predictive model that will not only improv
 # Table of Contents
   <Div>
     1. Data Collection
-      <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb>Datga</a>
+      <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">Datga</a>
   </Div>
 
 
-## First Bullet Header <a class="anchor" id="first-bullet"></a>
-
-code blocks...
-
-## Second Bullet Header <a class="anchor" id="second-bullet"></a>
-
-code blocks...
