@@ -1,6 +1,7 @@
 
 # **Data Science Capstone**
 
+
 # Introduction
 
 SpaceX has revolutionised the space race by developing rockets at a fraction of the cost of conventional launches, it has done this by reusing the rockets landing them which saves in excess of $100 million dollars for each launch. 
@@ -11,9 +12,9 @@ The goal of this project is develop a predictive model that will not only improv
 
 
 
-  <Div>
+  
     # Table of Contents
       <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a>
-  </Div>
+  
 
 
