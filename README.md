@@ -10,9 +10,9 @@ The goal of this project is develop a predictive model that will not only improv
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing\_1.gif)
 
 
-# Table of Contents
+
   <Div>
-    Data Collection
+    # Table of Contents
       <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a>
   </Div>
 
