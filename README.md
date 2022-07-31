@@ -11,6 +11,7 @@ The goal of this project is develop a predictive model that will not only improv
 
 
 # Table of Contents
-
-<a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb>1. Get the data</a>
-
+  <Div>
+    1. Data Collection
+<a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb></a>
+         </Div>
