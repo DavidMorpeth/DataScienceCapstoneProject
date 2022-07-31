@@ -12,4 +12,5 @@ The goal of this project is develop a predictive model that will not only improv
 
 # Table of Contents
 
-https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_yJPxhv2oU.ipynb
+
+https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb
