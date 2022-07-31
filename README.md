@@ -12,12 +12,12 @@ The goal of this project is develop a predictive model that will not only improv
   
 # Table of Contents
 *<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
-## <div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
 
   
 
