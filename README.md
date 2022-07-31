@@ -12,12 +12,13 @@ The goal of this project is develop a predictive model that will not only improv
   
 # Table of Contents
 *<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook%20-%20Webscraping.ipynb">1. Web Scraping for Data</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
-*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">1. Data Collection</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook%20-%20Webscraping.ipynb">2. Web Scraping for Data</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">3. Data Wrangling</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">4.EDA with SQL</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">5. EDA with visualisation</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">6. Visualisation with Folium</a></div>*
+*<div> <a href="https://github.com/DavidMorpeth/DataScienceCapstoneProject/blob/main/SpaceX%20Notebook.ipynb">7. Machine Learning</a></div>*
+*<div> <a href="">8. Findings</a></div>*
 
   
 
